@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Chala Hiko
+- 👀 I’m interested in Web-application development
+- 🌱 I’m currently learning full-stack web application development and CP
+- 💞️ I’m looking to collaborate on web-ralated projects.
+- 📫 You can reach me thougn telegram @infinite_wisdoms.
+- 😄 Pronouns: Sapient
+- ⚡ Fun fact: ...
