@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on web-ralated projects.
 - 📫 You can reach me though 
 -- tg: @infinite_wisdoms.
-__ Email : hikochala@gmail.com
+-- Email : hikochala@gmail.com
 - 😄 Pronouns: Sapient
