@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning front-end development and CP.
 - 💞️ I’m looking to collaborate on web-ralated projects.
 - 📫 You can reach me though tg: @infinite_wisdoms. or Email : hikochala@gmail.com
-- 😄 Pronouns: Sapient
