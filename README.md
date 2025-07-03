@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building things for the web a
 
 - Languages: HTML, CSS, JavaScript, python, C++
 - Tools & Frameworks: React, Git & GitHub, VS Code, Node.js (learning)
-- Interests: UI/UX Design, Open Source, Tech for Good
+- Interests:  Open Source, Tech for Good
 
 ## 📈 GitHub Stats
 
