@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I'm passionate about building things for the web a
 - 🌱 I’m currently learning **Front-End Development** (HTML, CSS, JavaScript, React) and improving my problem-solving skills.
 - 💞️ I’m looking to collaborate on **web-related projects**, especially those that help people or solve real-world problems.
 - 📫 Reach me on:
-  - Telegram: [@infinite_wisdoms](https://t.me/infinite_wisdoms)
-  - Email: hikochala@gmail.com
+  -  [Telegram](https://t.me/infinite_wisdoms)
+  - [Email]( hikochala@gmail.com)
+ 
 
 ## 🔧 Technologies & Tools
 
@@ -24,11 +25,6 @@ Welcome to my GitHub profile! I'm passionate about building things for the web a
 ## Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapientia01&layout=compact&theme=radical)
-
-
-## 🌟 Fun Fact
-
-I believe in **learning by building** – every project is a step toward mastery!
 
 ---
 
