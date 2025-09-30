@@ -8,8 +8,7 @@ Welcome to my GitHub! I'm a web development enthusiast who loves building intuit
 ## 🧠 About Me
 
 - 🎯 Passionate about **Web Application Development** and **Competitive Programming**
-- 🚀 Currently learning **Front-End Technologies**:  
-  `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `jQuery`, `Tailwind CSS`
+- 🚀 Currently learning **Fulk-stack Technologies**
 - 🧩 Actively improving my **problem-solving skills**
 - 🤝 Looking to collaborate on **web-based projects** that make a real impact
 - 📬 Reach me at:  
