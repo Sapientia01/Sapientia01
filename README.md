@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm **Chala Hiko**
 
 Welcome to my GitHub! I'm a web development enthusiast who loves building intuitive, user-friendly interfaces and solving real-world problems through code.
@@ -19,11 +20,39 @@ Welcome to my GitHub! I'm a web development enthusiast who loves building intuit
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`HTML`, `CSS`, `JavaScript`, `Python`, `C++`, `TypeScript`
+### 🌐 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
 
-**Frameworks & Tools:**  
-`React`, `Tailwind CSS`, `jQuery`, `npm` `Git & GitHub`, `VS Code`
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pip/pip-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/heroku/430098" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
 
 **Areas of Interest:**  
 🌐 Web Apps • 🤖 Open Source • 🔐 Cybersecurity • 💡 Tech for Good
